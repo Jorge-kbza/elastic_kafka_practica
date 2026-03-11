@@ -1,0 +1,2 @@
+# ElasticKafkaPractica
+Ejercicio de clase
