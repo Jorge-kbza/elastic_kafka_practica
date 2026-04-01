@@ -47,7 +47,7 @@ class TestBuildPipeline(unittest.TestCase):
         )
         
         # Forzar fallo
-        self.fail("Test forzado para comprobar pipeline")
+        # self.fail("Test forzado para comprobar pipeline")
 
 
 class TestMappingFunctions(unittest.TestCase):
