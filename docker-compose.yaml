@@ -2,10 +2,9 @@
 services:
   processor:
     image: processor-test
-    container_name: processor-prueba
+    container_name: factory-processor
     env_file: 
       - .env
-
     depends_on:
       - kafka
       - elasticsearch
